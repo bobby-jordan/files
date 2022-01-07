@@ -1,0 +1,35 @@
+{
+    "keywords":
+    [
+        {
+            "Name" : "$BEGINDATA",
+            "Description" : "Indicates beginning of data segment",
+            "Type": "Number",
+            "DefaultValue" : "0",
+            "Choices" : [],
+            "Mandatory" : false,
+            "OnlyFromList" : false,
+            "Min" : null,
+            "IsMinInclusive" : false,
+            "Max" : null,
+            "IsMaxInclusive" : false,
+            "Decimals" : 0,
+            "IsEditable":false
+        },
+        {
+            "Name" : "$ENDDATA",
+            "Description" : "Indicates end of data segment",
+            "Type": "Number",
+            "DefaultValue" : "1234",
+            "Choices" : [],
+            "Mandatory" : false,
+            "OnlyFromList" : false,
+            "Min" : null,
+            "IsMinInclusive" : false,
+            "Max" : null,
+            "IsMaxInclusive" : false,
+            "Decimals" : 0,
+            "IsEditable" : false
+        }
+    ]
+}
